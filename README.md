@@ -32,9 +32,9 @@
 
 - 🤖 I've keen interest in AI and ChatGPT
 
-- 🖥️ My portfolio [Yong Zi Ren](https://yongziren.wixsite.com/you-wont-regret-it) {Moving over to vercel soon...)
+- 🖥️ My portfolio [Yong Zi Ren](https://yongziren.wixsite.com/you-wont-regret-it) </Moving over to vercel soon...>
 
-- 📫 Feel free to reach me out **zirenyong2004@gmail.com**
+- 📫 Feel free to reach out to me **zirenyong2004@gmail.com**
 <!--Intro end-->
 
 
@@ -46,7 +46,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=New-President=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=New-President&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=New-President&theme=dark&hide_border=false" /> 
 </td>
