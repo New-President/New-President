@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
 
@@ -114,4 +114,4 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 7/5/2023
+Last Edited on: 23/2/2024
