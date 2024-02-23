@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning next.js to build my new portfolio site.
 
-- 🤖 I've keen interest in AI and ChatGPT
+- 🤖 I've keen interest in AI and Cybersecurity
 
 - 🖥️ My portfolio [Yong Zi Ren](https://yongziren.wixsite.com/you-wont-regret-it) </Moving over to vercel soon...>
 
