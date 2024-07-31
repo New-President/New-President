@@ -30,7 +30,7 @@
 
 - 🤖 I've keen interest in AI and Cybersecurity
 
-- 🖥️ My portfolio [Yong Zi Ren](https://yongziren.wixsite.com/you-wont-regret-it) </Moving over to vercel soon...>
+- 🖥️ My portfolio [Yong Zi Ren](https://new-president-portfolio.vercel.app/)
 
 - 📫 Feel free to reach out to me **zirenyong2004@gmail.com**
 <!--Intro end-->
