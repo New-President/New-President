@@ -24,9 +24,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently studying in **Ngee Ann Polytechnic Diploma in Cybersecurity & Digital Forensics**
+- 🔭 I’m currently studying in **National University of Singapore**
 
-- 🌱 I’m currently learning next.js to build my new portfolio site.
+- 🌱 Diploma in in Cybersecurity & Digital Forensics
 
 - 🤖 I've keen interest in AI and Cybersecurity
 
@@ -114,4 +114,4 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 1/8/2024
+Last Edited on: 15/7/2025
