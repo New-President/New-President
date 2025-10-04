@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center">Hi, I am New-President AKA <a href="https://yongziren.wixsite.com/you-wont-regret-it" target="">Yong Zi Ren</a>! 👋</h1></summary>
+    <summary><h1 align="center">Hi, I am New-President AKA <a href="https://new-president-portfolio.vercel.app/" target="">Yong Zi Ren</a>! 👋</h1></summary>
   </ul>
 </div>
 
