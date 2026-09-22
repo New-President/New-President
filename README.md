@@ -11,14 +11,14 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" /></a>
+  <img src="resources/grid-snake.svg" alt="snake" />
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Cyber Security and Software Development</h2></summary>
+    <summary><h2 style="display: inline-block">Cyber Security and AI</h2></summary>
   </ul>
 </div>
 
@@ -44,7 +44,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=New-President&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=New-President&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=New-President&theme=dark&hide_border=false" /> 
 </td>
@@ -61,7 +61,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=New-President&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-repo.vercel.app/?username=New-President&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -105,7 +105,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=New-President&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=New-President&color=0e75b6)](https://github.com/antonkomarev/github-profile-views-counter)
   
 </div>
 
@@ -114,4 +114,4 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 15/7/2025
+Last Edited on: 22/9/2026
