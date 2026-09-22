@@ -40,3 +40,4 @@ jobs:
             git commit -m "chore: update contribution snake animation [skip ci]"
             git push
           fi
+
